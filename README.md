@@ -1,5 +1,7 @@
 An android app called PolyPocket, used for polyamorous people to keep track of different partner's information.
 
+Screenshot folder shows the app in action.
+
 INSTALLATION:
 This app can be downloaded on the Google Play store, under the name PolyPocket
 
